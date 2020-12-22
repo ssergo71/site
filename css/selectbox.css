@@ -1,0 +1,123 @@
+.selectbox {
+	vertical-align: middle;
+	cursor: pointer;
+}
+
+.selectbox .select {
+	width: 90px;
+	height: 30px;
+	margin-top: 10px;
+	padding-left: 10px;
+	font: 14px/30px Arial, Tahoma, sans-serif;
+	color: #000;
+	background-color:#f5f5f5;
+	border: 1px solid #ccc;
+	border-color: #dcdcdc;
+}
+
+.nujtak .selectbox .select {width:385px;}
+#cabinet_content .nujtak .selectbox .select {width:438px;}
+.popup_vip .selectbox .select {width:300px;}
+.popup_vip2 .selectbox .select {width:300px;}
+#list2 .selectbox .select, #list3 .selectbox .select, #list4 .selectbox .select {width:85px;}
+.year_item_visa .selectbox .select {width:300px;}
+#cabinet_content .reg_full div.vipadalki .selectbox .select {width:124px;}
+#num_calc1 .selectbox .select {width:130px;}
+#num_calc2 .selectbox .select {width:130px;}
+#num_calc3 .selectbox .select {width:130px;}
+#num_calc4 .selectbox .select {width:130px;}
+.vip_month .selectbox .select {width:200px;}
+#interactive_block_taro #inter_block2 .selectbox .select {width:300px;}
+#interactive_block_taro #inter_block3 .selectbox .select {width:270px;}
+#interactive_block_rune #inter_block2 .selectbox .select {width:300px;}
+#interactive_block_taro #inter_block4 .selectbox .select {width:130px;}
+
+.selectbox .select:active {
+	background: #f5f5f5;
+}
+.selectbox .focused .select {
+	border: 1px solid #5794BF;
+}
+.selectbox .select .text {
+	color: #000;
+	display: block;
+	width: 100%;
+	white-space: nowrap;
+	overflow: hidden;
+}
+.selectbox .trigger {
+	position: absolute;
+	top: 0;
+	right: 0;
+	width: 26px;
+	height: 100%;
+}
+.selectbox .trigger .arrow {
+	position: absolute;
+	top: 14px;
+	right: 8px;
+	border-left: 5px solid transparent;
+	border-right: 5px solid transparent;
+	border-top: 5px solid #0075ff;
+	width: 0;
+	height: 0;
+	overflow: hidden;
+}
+.selectbox .dropdown {
+	top: 42px;
+	width: 130px;
+	max-height:350px;
+	overflow-y:scroll;
+	margin: 0;
+	padding: 6px 0 4px 0;
+	background: #f5f5f5;
+	border: 1px solid #C6CBD0;
+	font: 14px/18px Arial, Tahoma, sans-serif;
+}
+
+#comp .selectbox .dropdown, #partner .selectbox .dropdown {width:100px;}
+.nujtak .selectbox .dropdown {width:395px;}
+.popup_vip .selectbox .dropdown {width:300px;}
+.popup_vip2 .selectbox .dropdown {width:300px;}
+.year .selectbox .dropdown  {width:95px;}
+#cabinet_content .reg_full div.vipadalki .selectbox .dropdown {width:134px;}
+#cabinet_content .nujtak .selectbox .dropdown {width:448px;}
+.popup_vip .selectbox .dropdown {width:310px;}
+.popup_vip2 .selectbox .dropdown {width:310px;}
+#list2 .selectbox .dropdown, #list3 .selectbox .dropdown, #list4 .selectbox .dropdown {width:95px;}
+.year_item_visa .selectbox .dropdown {width:310px;}
+#tuda_suda .selectbox .dropdown  {width:100px;}
+#tuda_suda .nujtak .selectbox .dropdown {width:395px;}
+#num_calc1 .selectbox .dropdown {width:140px;}
+#num_calc2 .selectbox .dropdown {width:140px;}
+#num_calc3 .selectbox .dropdown {width:140px;}
+.vip_month .selectbox .dropdown {width:210px;}
+#interactive_block_taro #inter_block2 .selectbox .dropdown {width:310px;}
+#interactive_block_taro #inter_block3 .selectbox .dropdown {width:280px;}
+#interactive_block_rune #inter_block2 .selectbox .dropdown {width:310px;}
+#interactive_block_taro #inter_block4 .selectbox .dropdown {width:140px;}
+
+.selectbox li {
+	padding: 5px 10px;
+	color: #231F20;
+}
+
+.selectbox li.selected {
+	background: #A3ABB1;
+	color: #FFF;
+}
+.selectbox li:hover {
+	background: #08C;
+	color: #FFF;
+}
+.selectbox li.disabled {
+	color: #AAA;
+}
+.selectbox li.disabled:hover {
+	background: none;
+}
+
+.quip-pagination
+{
+	display:none;
+}
