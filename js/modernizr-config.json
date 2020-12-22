@@ -1,0 +1,27 @@
+{
+  "minify": true,
+  "options": [
+    "html5printshiv",
+    "html5shiv",
+    "setClasses"
+  ],
+  "feature-detects": [
+    "test/canvas",
+    "test/contextmenu",
+    "test/svg",
+    "test/touchevents",
+    "test/css/animations",
+    "test/css/flexbox",
+    "test/css/flexboxlegacy",
+    "test/css/fontface",
+    "test/css/transforms",
+    "test/css/transforms3d",
+    "test/css/transformstylepreserve3d",
+    "test/css/transitions",
+    "test/img/apng",
+    "test/img/webp-alpha",
+    "test/img/webp-animation",
+    "test/img/webp-lossless",
+    "test/img/webp"
+  ]
+}
