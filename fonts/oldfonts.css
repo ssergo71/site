@@ -1,5 +1,6 @@
 @font-face {
     font-family: 'Montserrat';
+	font-display: swap;
     src: url('//cdn.jsdelivr.net/gh/ssergo71/site@main/fonts/MontserratRegular.eot');
     src: url('//cdn.jsdelivr.net/gh/ssergo71/site@main/fonts/MontserratRegular.eot') format('embedded-opentype'),
          url('//cdn.jsdelivr.net/gh/ssergo71/site@main/fonts/MontserratRegular.woff2') format('woff2'),
@@ -9,6 +10,7 @@
 }
 @font-face {
     font-family: 'Montserrat Light';
+	font-display: swap;
     src: url('//cdn.jsdelivr.net/gh/ssergo71/site@main/fonts/MontserratLight.eot');
     src: url('//cdn.jsdelivr.net/gh/ssergo71/site@main/fonts/MontserratLight.eot') format('embedded-opentype'),
          url('//cdn.jsdelivr.net/gh/ssergo71/site@main/fonts/MontserratLight.woff2') format('woff2'),
@@ -18,6 +20,7 @@
 }
 @font-face {
     font-family: 'Montserrat Light Italic';
+	font-display: swap;
     src: url('//cdn.jsdelivr.net/gh/ssergo71/site@main/fonts/MontserratLightItalic.eot');
     src: url('//cdn.jsdelivr.net/gh/ssergo71/site@main/fonts/MontserratLightItalic.eot') format('embedded-opentype'),
          url('//cdn.jsdelivr.net/gh/ssergo71/site@main/fonts/MontserratLightItalic.woff2') format('woff2'),
@@ -27,6 +30,7 @@
 }
 @font-face {
     font-family: 'Montserrat Italic';
+	font-display: swap;
     src: url('//cdn.jsdelivr.net/gh/ssergo71/site@main/fonts/MontserratItalic.eot');
     src: url('//cdn.jsdelivr.net/gh/ssergo71/site@main/fonts/MontserratItalic.eot') format('embedded-opentype'),
          url('//cdn.jsdelivr.net/gh/ssergo71/site@main/fonts/MontserratItalic.woff2') format('woff2'),
@@ -36,6 +40,7 @@
 }
 @font-face {
     font-family: 'Montserrat Bold';
+	font-display: swap;
     src: url('//cdn.jsdelivr.net/gh/ssergo71/site@main/fonts/MontserratBold.eot');
     src: url('//cdn.jsdelivr.net/gh/ssergo71/site@main/fonts/MontserratBold.eot') format('embedded-opentype'),
          url('//cdn.jsdelivr.net/gh/ssergo71/site@main/fonts/MontserratBold.woff2') format('woff2'),
@@ -45,6 +50,7 @@
 }
 @font-face {
     font-family: 'Montserrat Bold Italic';
+	font-display: swap;
     src: url('//cdn.jsdelivr.net/gh/ssergo71/site@main/fonts/MontserratBoldItalic.eot');
     src: url('//cdn.jsdelivr.net/gh/ssergo71/site@main/fonts/MontserratBoldItalic.eot') format('embedded-opentype'),
          url('//cdn.jsdelivr.net/gh/ssergo71/site@main/fonts/MontserratBoldItalic.woff2') format('woff2'),
@@ -54,6 +60,7 @@
 }
 @font-face {
     font-family: 'Montserrat Thin';
+	font-display: swap;
     src: url('//cdn.jsdelivr.net/gh/ssergo71/site@main/fonts/MontserratThin.eot');
     src: url('//cdn.jsdelivr.net/gh/ssergo71/site@main/fonts/MontserratThin.eot') format('embedded-opentype'),
          url('//cdn.jsdelivr.net/gh/ssergo71/site@main/fonts/MontserratThin.woff2') format('woff2'),
@@ -63,6 +70,7 @@
 }
 @font-face {
     font-family: 'Montserrat Thin Italic';
+	font-display: swap;
     src: url('//cdn.jsdelivr.net/gh/ssergo71/site@main/fonts/MontserratThinItalic.eot');
     src: url('//cdn.jsdelivr.net/gh/ssergo71/site@main/fonts/MontserratThinItalic.eot') format('embedded-opentype'),
          url('//cdn.jsdelivr.net/gh/ssergo71/site@main/fonts/MontserratThinItalic.woff2') format('woff2'),
