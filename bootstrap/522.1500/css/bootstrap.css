@@ -1,9 +1,9 @@
 /*!
-   * Bootstrap  v5.2.2 (https://getbootstrap.com/)
-   * Copyright 2011-2022 The Bootstrap Authors
-   * Copyright 2011-2022 Twitter, Inc.
-   * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
-   */
+* Bootstrap  v5.2.2 (https://getbootstrap.com/)
+* Copyright 2011-2022 The Bootstrap Authors
+* Copyright 2011-2022 Twitter, Inc.
+* Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
+*/
 :root {
   --bs-blue: #0d6efd;
   --bs-indigo: #6610f2;
@@ -646,7 +646,7 @@ progress {
 .container-lg,
 .container-xl,
 .container-xxl {
-  --bs-gutter-x: 1rem;
+  --bs-gutter-x: 0;
   --bs-gutter-y: 0;
   width: 100%;
   padding-right: calc(var(--bs-gutter-x) * .5);
@@ -681,12 +681,12 @@ progress {
 
 @media (min-width: 1500px) {
   .container, .container-sm, .container-md, .container-lg, .container-xl, .container-xxl {
-    max-width: 1420px;
+    max-width: 1460px;
   }
 }
 
 .row {
-  --bs-gutter-x: 1rem;
+  --bs-gutter-x: 0;
   --bs-gutter-y: 0;
   display: flex;
   flex-wrap: wrap;
@@ -4831,7 +4831,7 @@ fieldset:disabled .btn {
   --bs-card-color: ;
   --bs-card-bg: #fff;
   --bs-card-img-overlay-padding: 1rem;
-  --bs-card-group-margin: 0.5rem;
+  --bs-card-group-margin: 0;
   position: relative;
   display: flex;
   flex-direction: column;
@@ -5934,7 +5934,7 @@ fieldset:disabled .btn {
   --bs-toast-zindex: 1090;
   --bs-toast-padding-x: 0.75rem;
   --bs-toast-padding-y: 0.5rem;
-  --bs-toast-spacing: 1rem;
+  --bs-toast-spacing: 0;
   --bs-toast-max-width: 350px;
   --bs-toast-font-size: 0.875rem;
   --bs-toast-color: ;
