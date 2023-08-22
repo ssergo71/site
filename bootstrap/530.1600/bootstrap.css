@@ -1,4 +1,4 @@
-/*Generated using bootstrapcustomizer.compoutpost.com (http://bootstrapcustomizer.compoutpost.com/bootstrap/5.3.0/?id=2aa9b84a-cc5a-4cef-90b5-ba3ca47f3570)*/
+/*Generated using bootstrapcustomizer.compoutpost.com (http://bootstrapcustomizer.compoutpost.com/bootstrap/5.3.0/?id=841d31c9-ad8b-4cc1-b53d-89a52c81257d)*/
 /*!
    * Bootstrap  v5.3.0 (https://getbootstrap.com/)
    * Copyright 2011-2023 The Bootstrap Authors
@@ -785,9 +785,9 @@ progress {
   }
 }
 
-@media (min-width: 1400px) {
+@media (min-width: 1600px) {
   .container, .container-sm, .container-md, .container-lg, .container-xl, .container-xxl {
-    max-width: 1380px;
+    max-width: 1580px;
   }
 }
 
@@ -797,7 +797,7 @@ progress {
   --bs-breakpoint-md: 768px;
   --bs-breakpoint-lg: 992px;
   --bs-breakpoint-xl: 1200px;
-  --bs-breakpoint-xxl: 1400px;
+  --bs-breakpoint-xxl: 1600px;
 }
 
 .row {
@@ -2087,7 +2087,7 @@ progress {
   }
 }
 
-@media (min-width: 1400px) {
+@media (min-width: 1600px) {
   .col-xxl {
     flex: 1 0 0%;
   }
@@ -2559,7 +2559,7 @@ progress {
   }
 }
 
-@media (max-width: 1399.98px) {
+@media (max-width: 1599.98px) {
   .table-responsive-xxl {
     overflow-x: auto;
     -webkit-overflow-scrolling: touch;
@@ -4110,7 +4110,7 @@ fieldset:disabled .btn {
   }
 }
 
-@media (min-width: 1400px) {
+@media (min-width: 1600px) {
   .dropdown-menu-xxl-start {
     --bs-position: start;
   }
@@ -4888,7 +4888,7 @@ fieldset:disabled .btn {
   }
 }
 
-@media (min-width: 1400px) {
+@media (min-width: 1600px) {
   .navbar-expand-xxl {
     flex-wrap: nowrap;
     justify-content: flex-start;
@@ -5917,7 +5917,7 @@ fieldset:disabled .btn {
   }
 }
 
-@media (min-width: 1400px) {
+@media (min-width: 1600px) {
   .list-group-horizontal-xxl {
     flex-direction: row;
   }
@@ -6474,7 +6474,7 @@ fieldset:disabled .btn {
   }
 }
 
-@media (max-width: 1399.98px) {
+@media (max-width: 1599.98px) {
   .modal-fullscreen-xxl-down {
     width: 100vw;
     max-width: none;
@@ -7429,7 +7429,7 @@ fieldset:disabled .btn {
   }
 }
 
-@media (max-width: 1399.98px) {
+@media (max-width: 1599.98px) {
   .offcanvas-xxl {
     position: fixed;
     bottom: 0;
@@ -7446,13 +7446,13 @@ fieldset:disabled .btn {
   }
 }
 
-@media (max-width: 1399.98px) and (prefers-reduced-motion: reduce) {
+@media (max-width: 1599.98px) and (prefers-reduced-motion: reduce) {
   .offcanvas-xxl {
     transition: none;
   }
 }
 
-@media (max-width: 1399.98px) {
+@media (max-width: 1599.98px) {
   .offcanvas-xxl.offcanvas-start {
     top: 0;
     left: 0;
@@ -7492,7 +7492,7 @@ fieldset:disabled .btn {
   }
 }
 
-@media (min-width: 1400px) {
+@media (min-width: 1600px) {
   .offcanvas-xxl {
     --bs-offcanvas-height: auto;
     --bs-offcanvas-border-width: 0;
@@ -7996,7 +7996,7 @@ fieldset:disabled .btn {
   }
 }
 
-@media (min-width: 1400px) {
+@media (min-width: 1600px) {
   .sticky-xxl-top {
     position: -webkit-sticky;
     position: sticky;
@@ -12287,7 +12287,7 @@ fieldset:disabled .btn {
   }
 }
 
-@media (min-width: 1400px) {
+@media (min-width: 1600px) {
   .float-xxl-start {
     float: left !important;
   }
