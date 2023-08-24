@@ -1,0 +1,21 @@
+https://fancyapps.com/fancybox/getting-started/
+
+
+<script src="https://cdn.jsdelivr.net/npm/@fancyapps/ui@5.0/dist/fancybox/fancybox.umd.js"></script>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fancyapps/ui@5.0/dist/fancybox/fancybox.css" />
+<script src="https://cdn.jsdelivr.net/npm/@fancyapps/ui@5.0/dist/fancybox/l10n/ru.umd.js"></script>
+
+
+<a href="image-a.jpeg" data-fancybox data-caption="Single image">
+  <img src="thumbnail-a.jpeg" />
+</a>
+Galleries are created by adding the same attribute data-fancybox value to multiple elements. You can mix images, videos and any HTML content in each gallery.
+
+html
+<a href="image-a.jpeg" data-fancybox="gallery" data-caption="Caption #1">
+  <img src="thumbnail-a.jpeg" />
+</a>
+
+<a href="image-b.jpeg" data-fancybox="gallery" data-caption="Caption #2">
+  <img src="thumbnail-b.jpeg" />
+</a>
