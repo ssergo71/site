@@ -226,7 +226,7 @@ h1, .h1 {
   font-size: calc(1.375rem + 1.5vw);
 }
 
-@media (min-width: 1200px) {
+@media (min-width: 1700px) {
   h1, .h1 {
     font-size: 2.5rem;
   }
@@ -236,7 +236,7 @@ h2, .h2 {
   font-size: calc(1.325rem + 0.9vw);
 }
 
-@media (min-width: 1200px) {
+@media (min-width: 1700px) {
   h2, .h2 {
     font-size: 2rem;
   }
@@ -246,7 +246,7 @@ h3, .h3 {
   font-size: calc(1.3rem + 0.6vw);
 }
 
-@media (min-width: 1200px) {
+@media (min-width: 1700px) {
   h3, .h3 {
     font-size: 1.75rem;
   }
@@ -256,7 +256,7 @@ h4, .h4 {
   font-size: calc(1.275rem + 0.3vw);
 }
 
-@media (min-width: 1200px) {
+@media (min-width: 1700px) {
   h4, .h4 {
     font-size: 1.5rem;
   }
@@ -612,7 +612,7 @@ progress {
   font-size: calc(1.625rem + 4.5vw);
 }
 
-@media (min-width: 1200px) {
+@media (min-width: 1700px) {
   .display-1 {
     font-size: 5rem;
   }
@@ -624,7 +624,7 @@ progress {
   font-size: calc(1.575rem + 3.9vw);
 }
 
-@media (min-width: 1200px) {
+@media (min-width: 1700px) {
   .display-2 {
     font-size: 4.5rem;
   }
@@ -636,7 +636,7 @@ progress {
   font-size: calc(1.525rem + 3.3vw);
 }
 
-@media (min-width: 1200px) {
+@media (min-width: 1700px) {
   .display-3 {
     font-size: 4rem;
   }
@@ -648,7 +648,7 @@ progress {
   font-size: calc(1.475rem + 2.7vw);
 }
 
-@media (min-width: 1200px) {
+@media (min-width: 1700px) {
   .display-4 {
     font-size: 3.5rem;
   }
@@ -660,7 +660,7 @@ progress {
   font-size: calc(1.425rem + 2.1vw);
 }
 
-@media (min-width: 1200px) {
+@media (min-width: 1700px) {
   .display-5 {
     font-size: 3rem;
   }
@@ -672,7 +672,7 @@ progress {
   font-size: calc(1.375rem + 1.5vw);
 }
 
-@media (min-width: 1200px) {
+@media (min-width: 1700px) {
   .display-6 {
     font-size: 2.5rem;
   }
@@ -773,7 +773,7 @@ progress {
 
 @media (min-width: 768px) {
   .container-xs, .container-sm, .container-md {
-    max-width: 700px;
+    max-width: 720px;
   }
 }
 
