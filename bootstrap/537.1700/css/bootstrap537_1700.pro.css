@@ -1,6 +1,6 @@
-/*Generated using bootstrapcustomizer.compoutpost.com (https://bootstrapcustomizer.compoutpost.com/bootstrap/5.3.7/?id=9fce4e3e-bd8f-41fd-a1d8-7680030c724a)*/
+/*Generated bootstrapcustomizer bootstrap/5.3.7/?id=9fce4e3e-bd8f-41fd-a1d8-7680030c724a) */
 /*!
-   * Bootstrap  v5.3.7 (https://getbootstrap.com/)
+   * Bootstrap  v5.3.7 (https: // getbootstrap . com /)
    * Copyright 2011-2025 The Bootstrap Authors
    * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
    */
@@ -226,7 +226,7 @@ h1, .h1 {
   font-size: calc(1.375rem + 1.5vw);
 }
 
-@media (min-width: 1200px) {
+@media (min-width: 1700px) {
   h1, .h1 {
     font-size: 2.5rem;
   }
@@ -236,7 +236,7 @@ h2, .h2 {
   font-size: calc(1.325rem + 0.9vw);
 }
 
-@media (min-width: 1200px) {
+@media (min-width: 1700px) {
   h2, .h2 {
     font-size: 2rem;
   }
@@ -246,7 +246,7 @@ h3, .h3 {
   font-size: calc(1.3rem + 0.6vw);
 }
 
-@media (min-width: 1200px) {
+@media (min-width: 1700px) {
   h3, .h3 {
     font-size: 1.75rem;
   }
@@ -256,7 +256,7 @@ h4, .h4 {
   font-size: calc(1.275rem + 0.3vw);
 }
 
-@media (min-width: 1200px) {
+@media (min-width: 1700px) {
   h4, .h4 {
     font-size: 1.5rem;
   }
@@ -530,7 +530,7 @@ legend {
   font-size: calc(1.275rem + 0.3vw);
 }
 
-@media (min-width: 1200px) {
+@media (min-width: 1700px) {
   legend {
     font-size: 1.5rem;
   }
@@ -612,7 +612,7 @@ progress {
   font-size: calc(1.625rem + 4.5vw);
 }
 
-@media (min-width: 1200px) {
+@media (min-width: 1700px) {
   .display-1 {
     font-size: 5rem;
   }
@@ -624,7 +624,7 @@ progress {
   font-size: calc(1.575rem + 3.9vw);
 }
 
-@media (min-width: 1200px) {
+@media (min-width: 1700px) {
   .display-2 {
     font-size: 4.5rem;
   }
@@ -636,7 +636,7 @@ progress {
   font-size: calc(1.525rem + 3.3vw);
 }
 
-@media (min-width: 1200px) {
+@media (min-width: 1700px) {
   .display-3 {
     font-size: 4rem;
   }
@@ -648,7 +648,7 @@ progress {
   font-size: calc(1.475rem + 2.7vw);
 }
 
-@media (min-width: 1200px) {
+@media (min-width: 1700px) {
   .display-4 {
     font-size: 3.5rem;
   }
@@ -660,7 +660,7 @@ progress {
   font-size: calc(1.425rem + 2.1vw);
 }
 
-@media (min-width: 1200px) {
+@media (min-width: 1700px) {
   .display-5 {
     font-size: 3rem;
   }
@@ -672,7 +672,7 @@ progress {
   font-size: calc(1.375rem + 1.5vw);
 }
 
-@media (min-width: 1200px) {
+@media (min-width: 1700px) {
   .display-6 {
     font-size: 2.5rem;
   }
@@ -751,6 +751,7 @@ progress {
 
 .container,
 .container-fluid,
+.container-xs,
 .container-sm,
 .container-md,
 .container-lg,
@@ -766,41 +767,47 @@ progress {
 }
 
 @media (min-width: 576px) {
-  .container, .container-sm {
-    max-width: 98%;
+  .container, .container-xs {
+    max-width: 540px;
   }
 }
 
 @media (min-width: 768px) {
-  .container, .container-sm, .container-md {
-    max-width: 96%;
+  .container, .container-xs, .container-sm {
+    max-width: 720px;
   }
 }
 
 @media (min-width: 992px) {
-  .container, .container-sm, .container-md, .container-lg {
-    max-width: 94%;
+  .container, .container-xs, .container-sm, .container-md {
+    max-width: 920px;
   }
 }
 
 @media (min-width: 1200px) {
-  .container, .container-sm, .container-md, .container-lg, .container-xl {
-    max-width: 93%;
+  .container, .container-xs, .container-sm, .container-md, .container-lg {
+    max-width: 1160px;
+  }
+}
+
+@media (min-width: 1500px) {
+  .container, .container-xs, .container-sm, .container-md, .container-lg, .container-xl {
+    max-width: 1460px;
   }
 }
 
 @media (min-width: 1700px) {
-  .container, .container-sm, .container-md, .container-lg, .container-xl, .container-xxl {
-    max-width: 92%;
+  .container, .container-xs, .container-sm, .container-md, .container-lg, .container-xl, .container-xxl {
+    max-width: 1660px;
   }
 }
 
 :root {
-  --bs-breakpoint-xs: 0;
-  --bs-breakpoint-sm: 576px;
-  --bs-breakpoint-md: 768px;
-  --bs-breakpoint-lg: 992px;
-  --bs-breakpoint-xl: 1200px;
+  --bs-breakpoint-xs: 576px;
+  --bs-breakpoint-sm: 768px;
+  --bs-breakpoint-md: 992px;
+  --bs-breakpoint-lg: 1200px;
+  --bs-breakpoint-xl: 1500px;
   --bs-breakpoint-xxl: 1700px;
 }
 
