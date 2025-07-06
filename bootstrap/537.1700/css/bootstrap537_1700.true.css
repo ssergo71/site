@@ -1,4 +1,4 @@
-/*Generated using bootstrapcustomizer.compoutpost.com (https://bootstrapcustomizer.compoutpost.com/bootstrap/5.3.7/?id=6d6d56e3-07c4-47fd-bfc9-c80e4498cced)*/
+/*Generated using bootstrapcustomizer.compoutpost.com (https://bootstrapcustomizer.compoutpost.com/bootstrap/5.3.7/?id=ee9f58d7-682b-4fd5-900d-c60ba5fc17fb)*/
 /*!
    * Bootstrap  v5.3.7 (https://getbootstrap.com/)
    * Copyright 2011-2025 The Bootstrap Authors
@@ -779,7 +779,7 @@ progress {
 
 @media (min-width: 900px) {
   .container-xs, .container-sm, .container-md, .container-lg {
-    max-width: 860px;
+    max-width: 868px;
   }
 }
 
@@ -791,7 +791,7 @@ progress {
 
 @media (min-width: 1700px) {
   .container-xs, .container-sm, .container-md, .container-lg, .container-xl, .container-xxl {
-    max-width: 1568px;
+    max-width: 1668px;
   }
 }
 
