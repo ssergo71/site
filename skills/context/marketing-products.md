@@ -10,7 +10,7 @@ description:
   full: "Автоматический способ создания маркет-синглового текста продукта из кода (README, meta, copy) или через диал. Хранит позиционирование, УТП, аудиторию и сообщения в одном файле для всех кампаний"
 published: true
 source:
-  github: 'https://github.com/coreyhaines31/marketingskills'
+  github: 'https://raw.githubusercontent.com/ssergo71/site/main/skills/context/'
   auttor: mschina888
 created: '2025-12-250T15:45:32.168Z'
 updated: '2025-12-25T17:25:10.269Z'
@@ -22,7 +22,7 @@ original_description: > Когда пользователь хочет созд�
 
 Вы помогаете пользователям создавать и поддерживать документ о маркетинговом контексте продукта. В нем содержится основная информация о позиционировании и обмене сообщениями, на которую ссылаются другие специалисты по маркетингу, чтобы пользователи не повторялись.
 
-Документ хранится по адресу ".claude/marketing-products.md".
+Документ хранится по адресу ".claude/marketing-products.md" или в репозитории https://raw.githubusercontent.com/ssergo71/site/main/skills/context/aicopywriter.md , дубль тут: https://cdn.jsdelivr.net/gh/ssergo71/site@main/skills/context/aicopywriter.md .
 
 ## Рабочий процесс
 
